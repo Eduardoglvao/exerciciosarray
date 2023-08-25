@@ -1,0 +1,48 @@
+Exercício 1: Lista de Compras
+Maria está indo ao supermercado. Ela tem uma lista de itens para comprar. Ajude Maria a criar
+um programa que permita que ela adicione cada item à sua lista de compras. No final, exiba a
+lista completa de compras.
+
+Exercício 2: Calendário de Eventos
+Carlos está organizando sua agenda semanal. Ele quer criar um programa para adicionar os
+eventos que ele precisa participar em cada dia da semana. Ajude Carlos a criar um calendário
+de eventos usando arrays para cada dia da semana e exiba os eventos planejados.
+
+Exercício 3: Coleção de Livros
+Ana ama ler e está construindo sua coleção de livros. Crie um programa para Ana registrar os
+títulos dos livros que ela possui. No final, exiba a lista completa de livros.
+
+Exercício 4: Jogo de Cartas
+Pedro e seus amigos estão jogando um jogo de cartas. Crie um programa que represente as
+cartas de um baralho usando arrays. Em seguida, distribua 5 cartas aleatórias para cada
+jogador e exiba as mãos de todos.
+
+Exercício 5: Lista de Tarefas
+João está com muitas tarefas para fazer durante o dia. Crie um programa que permita que
+João adicione suas tarefas a uma lista. Ao final do dia, exiba todas as tarefas que ele precisa
+realizar.
+
+Exercício 6: Controle de Gastos
+Fernanda quer controlar seus gastos mensais. Crie um programa que permita que ela insira
+seus gastos diários em um array. No final do mês, exiba a soma total dos gastos.
+
+Exercício 7: Ranking de Pontuações
+Lucas e seus amigos estão jogando videogame e querem manter um ranking de pontuações.
+Crie um programa que permita que eles adicionem suas pontuações em um array. No final do
+dia, exiba o ranking com as pontuações ordenadas de forma decrescente.
+
+Exercício 8: Previsão do Tempo
+
+Marina é uma entusiasta do clima. Crie um programa que represente a temperatura de cada
+dia da semana usando um array. Em seguida, exiba a previsão semanal de temperatura para
+que Marina possa se preparar.
+
+Exercício 9: Cadastro de Alunos
+Uma escola deseja cadastrar seus alunos. Crie um programa que permita adicionar nome e
+idade de cada aluno em arrays separados. No final, exiba a lista de alunos com suas respectivas
+idades.
+
+Exercício 10: Playlist de Músicas
+Paulo está organizando sua playlist de músicas para uma festa. Crie um programa que permita
+que ele adicione músicas à sua playlist usando um array. No final, exiba a lista completa de
+músicas
